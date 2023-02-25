@@ -8,7 +8,7 @@ buttons.forEach(button => {
         const buttonTop = e.target.offsetTop
         const buttonLeft = e.target.offsetLeft
 
-        const xInside = x - buttonLeft
+        const xInside = x - buttonLef
         const yInside = y - buttonTop
 
         const circle = document.createElement('span')

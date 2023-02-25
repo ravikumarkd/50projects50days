@@ -29,7 +29,7 @@ function runAnimation() {
       } else {
         counter.classList.add('hide')
         finalMessage.classList.add('show')
-      }
+      
     })
   })
 }
