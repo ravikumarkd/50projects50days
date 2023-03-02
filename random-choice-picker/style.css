@@ -8,8 +8,7 @@ body {
   background-color: #2b88f0;
   font-family: 'Muli', sans-serif;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-direction:er;
   justify-content: center;
   height: 100vh;
   overflow: hidden;
@@ -23,12 +22,7 @@ h3 {
 }
 
 .container {
-  width: 500px;
-}
-
-textarea {
-  border: none;
-  display: block;
+  wiy: block;
   width: 100%;
   height: 100px;
   font-family: inherit;
